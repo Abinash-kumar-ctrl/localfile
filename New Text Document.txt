@@ -1,9 +1,11 @@
 ok baba 
 
-<<<<<<< HEAD
+
 welcome to 3G
 
 smartphone
-=======
+
 welcome to f2
->>>>>>> main
+
+This is India.
+
